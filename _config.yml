@@ -61,7 +61,7 @@ feed_show_tags: true
 post_search: false
 edit_page_button: false
 navbar-var-length: true
-<meta name="google-site-verification" content="dN_eN06eHHw16nzV2rn1bcai-bIOL_OcmEy7jHJvR1w" />
+
 ######################################
 # --- Colours / background image --- #
 ######################################
@@ -78,4 +78,4 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 google_verification: "2e4bc6226f2fda7e"
-
+<meta name="google-site-verification" content="dN_eN06eHHw16nzV2rn1bcai-bIOL_OcmEy7jHJvR1w" />
